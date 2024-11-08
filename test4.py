@@ -9,8 +9,8 @@
 # pg.press('\r')
 import time
 
-import jsonIO
-from interpreter import  Interpreter
+from util import jsonIO
+from interpreter.interpreter import  Interpreter
 
 time.sleep(3)
 data = jsonIO.input_json()

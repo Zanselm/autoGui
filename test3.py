@@ -1,5 +1,8 @@
 # from pynput import keyboard
-#
+import time
+
+from interpreter.interpreter import Interpreter
+
 #
 # def on_press(key):
 #     try:
@@ -18,18 +21,15 @@
 # # 设置键盘监听
 # with keyboard.Listener(on_press=on_press) as listener:
 #     listener.join()
-import time
+from util import jsonIO
 
-import jsonIO
-import interpreter
+# from listener import mouse_listener
 
-import mouse_listener
-
-ml = mouse_listener.MouseListener()
-
-ml.start()
-ml.record()
-ml.join()
+# ml = mouse_listener.MouseListener()
+#
+# ml.start()
+# ml.record()
+# ml.join()
 
 # import json
 # a = {
@@ -46,7 +46,7 @@ ml.join()
 # f2.close()
 # data = jsonIO.input_json()
 # print(data,type(data),data[0],type(data[1]))
-
-# data = jsonIO.input_json()
-# interpreter = interpreter.Interpreter()
-# interpreter.interpret(data)
+time.sleep(3)
+data = jsonIO.input_json()
+interpreter = Interpreter()
+interpreter.interpret(data)

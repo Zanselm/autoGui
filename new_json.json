@@ -1,1497 +1,199 @@
 [
     {
-        "num": 129,
-        "module": "head"
+        "num": 19,
+        "module": "head",
+        "last_time": 1731043761.4047139,
+        "start_time": 1731043747.43,
+        "all_time": 14.087
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 1088,
-            "y": 152
+            "key": "a"
         },
-        "description": "鼠标移至(1088, 152)",
+        "description": "'a' 按下",
         "is_operated": false,
-        "interval": 0.33
+        "interval": 0.711
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 1058,
-            "y": 146
+            "key": "a"
         },
-        "description": "鼠标移至(1058, 146)",
-        "is_operated": false,
-        "interval": 0.03
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 1028,
-            "y": 143
-        },
-        "description": "鼠标移至(1028, 143)",
-        "is_operated": false,
-        "interval": 0.04
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 998,
-            "y": 139
-        },
-        "description": "鼠标移至(998, 139)",
-        "is_operated": false,
-        "interval": 0.04
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 966,
-            "y": 138
-        },
-        "description": "鼠标移至(966, 138)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 934,
-            "y": 136
-        },
-        "description": "鼠标移至(934, 136)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 902,
-            "y": 132
-        },
-        "description": "鼠标移至(902, 132)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 871,
-            "y": 128
-        },
-        "description": "鼠标移至(871, 128)",
-        "is_operated": false,
-        "interval": 0.01
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 838,
-            "y": 123
-        },
-        "description": "鼠标移至(838, 123)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 808,
-            "y": 119
-        },
-        "description": "鼠标移至(808, 119)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 776,
-            "y": 113
-        },
-        "description": "鼠标移至(776, 113)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 745,
-            "y": 106
-        },
-        "description": "鼠标移至(745, 106)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 716,
-            "y": 96
-        },
-        "description": "鼠标移至(716, 96)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 689,
-            "y": 80
-        },
-        "description": "鼠标移至(689, 80)",
-        "is_operated": false,
-        "interval": 0.04
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 664,
-            "y": 61
-        },
-        "description": "鼠标移至(664, 61)",
-        "is_operated": false,
-        "interval": 0.05
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 638,
-            "y": 45
-        },
-        "description": "鼠标移至(638, 45)",
-        "is_operated": false,
-        "interval": 0.04
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 609,
-            "y": 32
-        },
-        "description": "鼠标移至(609, 32)",
-        "is_operated": false,
-        "interval": 0.04
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 578,
-            "y": 23
-        },
-        "description": "鼠标移至(578, 23)",
-        "is_operated": false,
-        "interval": 0.03
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 548,
-            "y": 19
-        },
-        "description": "鼠标移至(548, 19)",
-        "is_operated": false,
-        "interval": 0.05
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 517,
-            "y": 18
-        },
-        "description": "鼠标移至(517, 18)",
-        "is_operated": false,
-        "interval": 0.04
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 486,
-            "y": 17
-        },
-        "description": "鼠标移至(486, 17)",
-        "is_operated": false,
-        "interval": 0.03
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 455,
-            "y": 17
-        },
-        "description": "鼠标移至(455, 17)",
-        "is_operated": false,
-        "interval": 0.03
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 422,
-            "y": 17
-        },
-        "description": "鼠标移至(422, 17)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 391,
-            "y": 17
-        },
-        "description": "鼠标移至(391, 17)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 360,
-            "y": 17
-        },
-        "description": "鼠标移至(360, 17)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 328,
-            "y": 17
-        },
-        "description": "鼠标移至(328, 17)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 297,
-            "y": 18
-        },
-        "description": "鼠标移至(297, 18)",
-        "is_operated": false,
-        "interval": 0.03
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 266,
-            "y": 19
-        },
-        "description": "鼠标移至(266, 19)",
-        "is_operated": false,
-        "interval": 0.03
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 233,
-            "y": 19
-        },
-        "description": "鼠标移至(233, 19)",
-        "is_operated": false,
-        "interval": 0.04
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 203,
-            "y": 23
-        },
-        "description": "鼠标移至(203, 23)",
-        "is_operated": false,
-        "interval": 0.05
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 173,
-            "y": 29
-        },
-        "description": "鼠标移至(173, 29)",
-        "is_operated": false,
-        "interval": 0.08
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 143,
-            "y": 34
-        },
-        "description": "鼠标移至(143, 34)",
-        "is_operated": false,
-        "interval": 0.05
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 113,
-            "y": 36
-        },
-        "description": "鼠标移至(113, 36)",
-        "is_operated": false,
-        "interval": 0.05
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 82,
-            "y": 37
-        },
-        "description": "鼠标移至(82, 37)",
-        "is_operated": false,
-        "interval": 0.13
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 51,
-            "y": 37
-        },
-        "description": "鼠标移至(51, 37)",
-        "is_operated": false,
-        "interval": 0.07
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 32,
-            "y": 61
-        },
-        "description": "鼠标移至(32, 61)",
-        "is_operated": false,
-        "interval": 0.14
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 7,
-            "y": 78
-        },
-        "description": "鼠标移至(7, 78)",
-        "is_operated": false,
-        "interval": 0.06
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 7,
-            "y": 109
-        },
-        "description": "鼠标移至(7, 109)",
-        "is_operated": false,
-        "interval": 0.14
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 16,
-            "y": 135,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(16, 135)按下 ",
-        "is_operated": false,
-        "interval": 0.33
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 16,
-            "y": 135,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(16, 135)释放 ",
+        "description": "'a' 释放",
         "is_operated": false,
         "interval": 0.09
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 16,
-            "y": 138
+            "key": "backspace"
         },
-        "description": "鼠标移至(16, 138)",
+        "description": "Key.backspace 按下",
         "is_operated": false,
-        "interval": 0.17
+        "interval": 1.632
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 24,
-            "y": 109
+            "key": "backspace"
         },
-        "description": "鼠标移至(24, 109)",
+        "description": "Key.backspace 释放",
         "is_operated": false,
-        "interval": 0.54
+        "interval": 0.078
     },
     {
-        "module": "mouse",
-        "operation": "click",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 26,
-            "y": 82,
-            "button": "Button.left",
-            "is_down": true
+            "key": "b"
         },
-        "description": "Button.left在(26, 82)按下 ",
+        "description": "'b' 按下",
         "is_operated": false,
-        "interval": 0.26
+        "interval": 2.525
     },
     {
-        "module": "mouse",
-        "operation": "click",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 26,
-            "y": 82,
-            "button": "Button.left",
-            "is_down": false
+            "key": "b"
         },
-        "description": "Button.left在(26, 82)释放 ",
+        "description": "'b' 释放",
         "is_operated": false,
-        "interval": 0.08
+        "interval": 0.017
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 41,
-            "y": 84
+            "key": "c"
         },
-        "description": "鼠标移至(41, 84)",
+        "description": "'c' 按下",
         "is_operated": false,
-        "interval": 0.43
+        "interval": 0.901
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 69,
-            "y": 97
+            "key": "c"
         },
-        "description": "鼠标移至(69, 97)",
+        "description": "'c' 释放",
         "is_operated": false,
-        "interval": 0.15
+        "interval": 0.079
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 94,
-            "y": 114
+            "key": "ctrl"
         },
-        "description": "鼠标移至(94, 114)",
+        "description": "Key.ctrl_l 按下",
         "is_operated": false,
-        "interval": 0.11
+        "interval": 1.945
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 122,
-            "y": 126
+            "key": "a"
         },
-        "description": "鼠标移至(122, 126)",
+        "description": "'\\x01' 按下",
         "is_operated": false,
-        "interval": 0.16
+        "interval": 0.508
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 152,
-            "y": 129
+            "key": "a"
         },
-        "description": "鼠标移至(152, 129)",
+        "description": "'\\x01' 释放",
         "is_operated": false,
-        "interval": 0.07
+        "interval": 0.135
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 182,
-            "y": 125
+            "key": "ctrl"
         },
-        "description": "鼠标移至(182, 125)",
+        "description": "Key.ctrl_l 释放",
         "is_operated": false,
-        "interval": 0.2
+        "interval": 0.821
     },
     {
-        "module": "mouse",
-        "operation": "click",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 187,
-            "y": 124,
-            "button": "Button.left",
-            "is_down": true
+            "key": "ctrl"
         },
-        "description": "Button.left在(187, 124)按下 ",
+        "description": "Key.ctrl_l 按下",
         "is_operated": false,
-        "interval": 0.17
+        "interval": 1.856
     },
     {
-        "module": "mouse",
-        "operation": "click",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 187,
-            "y": 124,
-            "button": "Button.left",
-            "is_down": false
+            "key": "a"
         },
-        "description": "Button.left在(187, 124)释放 ",
+        "description": "'\\x01' 按下",
         "is_operated": false,
-        "interval": 0.1
+        "interval": 0.314
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 212,
-            "y": 123
+            "key": "a"
         },
-        "description": "鼠标移至(212, 123)",
+        "description": "'\\x01' 按下",
         "is_operated": false,
-        "interval": 0.27
+        "interval": 0.507
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 242,
-            "y": 122
+            "key": "a"
         },
-        "description": "鼠标移至(242, 122)",
+        "description": "'\\x01' 按下",
         "is_operated": false,
-        "interval": 0.03
+        "interval": 0.031
     },
     {
-        "module": "mouse",
-        "operation": "moveTo",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 273,
-            "y": 122
+            "key": "ctrl"
         },
-        "description": "鼠标移至(273, 122)",
+        "description": "Key.ctrl_l 释放",
         "is_operated": false,
-        "interval": 0.07
+        "interval": 0.024
     },
     {
-        "module": "mouse",
-        "operation": "click",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 290,
-            "y": 143,
-            "button": "Button.left",
-            "is_down": true
+            "key": "a"
         },
-        "description": "Button.left在(290, 143)按下 ",
+        "description": "'a' 释放",
         "is_operated": false,
-        "interval": 0.47
+        "interval": 0.508
     },
     {
-        "module": "mouse",
-        "operation": "click",
+        "module": "keyboard",
+        "operation": "press",
         "data": {
-            "x": 290,
-            "y": 143,
-            "button": "Button.left",
-            "is_down": false
+            "key": "esc"
         },
-        "description": "Button.left在(290, 143)释放 ",
+        "description": "Key.esc 按下",
         "is_operated": false,
-        "interval": 0.09
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 289,
-            "y": 148
-        },
-        "description": "鼠标移至(289, 148)",
-        "is_operated": false,
-        "interval": 0.15
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 283,
-            "y": 164,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(283, 164)按下 ",
-        "is_operated": false,
-        "interval": 0.3
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 283,
-            "y": 164,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(283, 164)释放 ",
-        "is_operated": false,
-        "interval": 0.07
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 275,
-            "y": 175
-        },
-        "description": "鼠标移至(275, 175)",
-        "is_operated": false,
-        "interval": 0.15
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 271,
-            "y": 181,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(271, 181)按下 ",
-        "is_operated": false,
-        "interval": 0.18
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 271,
-            "y": 181,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(271, 181)释放 ",
-        "is_operated": false,
-        "interval": 0.07
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 260,
-            "y": 201
-        },
-        "description": "鼠标移至(260, 201)",
-        "is_operated": false,
-        "interval": 0.16
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 254,
-            "y": 210,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(254, 210)按下 ",
-        "is_operated": false,
-        "interval": 0.23
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 254,
-            "y": 210,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(254, 210)释放 ",
-        "is_operated": false,
-        "interval": 0.08
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 245,
-            "y": 227
-        },
-        "description": "鼠标移至(245, 227)",
-        "is_operated": false,
-        "interval": 0.17
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 234,
-            "y": 255
-        },
-        "description": "鼠标移至(234, 255)",
-        "is_operated": false,
-        "interval": 0.07
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 227,
-            "y": 286
-        },
-        "description": "鼠标移至(227, 286)",
-        "is_operated": false,
-        "interval": 0.05
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 218,
-            "y": 315
-        },
-        "description": "鼠标移至(218, 315)",
-        "is_operated": false,
-        "interval": 0.08
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 208,
-            "y": 344
-        },
-        "description": "鼠标移至(208, 344)",
-        "is_operated": false,
-        "interval": 0.07
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 204,
-            "y": 360,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(204, 360)按下 ",
-        "is_operated": false,
-        "interval": 0.19
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 204,
-            "y": 360,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(204, 360)释放 ",
-        "is_operated": false,
-        "interval": 0.09
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 200,
-            "y": 374
-        },
-        "description": "鼠标移至(200, 374)",
-        "is_operated": false,
-        "interval": 0.12
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 193,
-            "y": 403,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(193, 403)按下 ",
-        "is_operated": false,
-        "interval": 0.25
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 193,
-            "y": 403,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(193, 403)释放 ",
-        "is_operated": false,
-        "interval": 0.1
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 193,
-            "y": 404
-        },
-        "description": "鼠标移至(193, 404)",
-        "is_operated": false,
-        "interval": 0.02
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 189,
-            "y": 434
-        },
-        "description": "鼠标移至(189, 434)",
-        "is_operated": false,
-        "interval": 0.16
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 187,
-            "y": 440,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(187, 440)按下 ",
-        "is_operated": false,
-        "interval": 0.29
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 187,
-            "y": 440,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(187, 440)释放 ",
-        "is_operated": false,
-        "interval": 0.09
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 185,
-            "y": 460,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(185, 460)按下 ",
-        "is_operated": false,
-        "interval": 0.29
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 185,
-            "y": 460,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(185, 460)释放 ",
-        "is_operated": false,
-        "interval": 0.08
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 185,
-            "y": 464
-        },
-        "description": "鼠标移至(185, 464)",
-        "is_operated": false,
-        "interval": 0.04
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 184,
-            "y": 489,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(184, 489)按下 ",
-        "is_operated": false,
-        "interval": 0.31
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 184,
-            "y": 489,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(184, 489)释放 ",
-        "is_operated": false,
-        "interval": 0.07
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 183,
-            "y": 494
-        },
-        "description": "鼠标移至(183, 494)",
-        "is_operated": false,
-        "interval": 0.1
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 168,
-            "y": 521
-        },
-        "description": "鼠标移至(168, 521)",
-        "is_operated": false,
-        "interval": 0.09
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 158,
-            "y": 550
-        },
-        "description": "鼠标移至(158, 550)",
-        "is_operated": false,
-        "interval": 0.06
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 145,
-            "y": 578
-        },
-        "description": "鼠标移至(145, 578)",
-        "is_operated": false,
-        "interval": 0.07
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 129,
-            "y": 604
-        },
-        "description": "鼠标移至(129, 604)",
-        "is_operated": false,
-        "interval": 0.06
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 112,
-            "y": 629
-        },
-        "description": "鼠标移至(112, 629)",
-        "is_operated": false,
-        "interval": 0.04
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 90,
-            "y": 650
-        },
-        "description": "鼠标移至(90, 650)",
-        "is_operated": false,
-        "interval": 0.06
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 67,
-            "y": 670
-        },
-        "description": "鼠标移至(67, 670)",
-        "is_operated": false,
-        "interval": 0.06
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 42,
-            "y": 689
-        },
-        "description": "鼠标移至(42, 689)",
-        "is_operated": false,
-        "interval": 0.1
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 18,
-            "y": 709
-        },
-        "description": "鼠标移至(18, 709)",
-        "is_operated": false,
-        "interval": 0.08
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 14,
-            "y": 715,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(14, 715)按下 ",
-        "is_operated": false,
-        "interval": 0.17
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 14,
-            "y": 715,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(14, 715)释放 ",
-        "is_operated": false,
-        "interval": 0.08
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 11,
-            "y": 739
-        },
-        "description": "鼠标移至(11, 739)",
-        "is_operated": false,
-        "interval": 0.22
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 19,
-            "y": 758,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(19, 758)按下 ",
-        "is_operated": false,
-        "interval": 0.2
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 19,
-            "y": 758,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(19, 758)释放 ",
-        "is_operated": false,
-        "interval": 0.08
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 19,
-            "y": 768
-        },
-        "description": "鼠标移至(19, 768)",
-        "is_operated": false,
-        "interval": 0.09
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 17,
-            "y": 796,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(17, 796)按下 ",
-        "is_operated": false,
-        "interval": 0.31
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 17,
-            "y": 796,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(17, 796)释放 ",
-        "is_operated": false,
-        "interval": 0.08
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 17,
-            "y": 798
-        },
-        "description": "鼠标移至(17, 798)",
-        "is_operated": false,
-        "interval": 0.11
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 22,
-            "y": 828
-        },
-        "description": "鼠标移至(22, 828)",
-        "is_operated": false,
-        "interval": 0.38
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 22,
-            "y": 853,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(22, 853)按下 ",
-        "is_operated": false,
-        "interval": 0.29
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 22,
-            "y": 853,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(22, 853)释放 ",
-        "is_operated": false,
-        "interval": 0.08
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 22,
-            "y": 859
-        },
-        "description": "鼠标移至(22, 859)",
-        "is_operated": false,
-        "interval": 0.05
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 19,
-            "y": 889
-        },
-        "description": "鼠标移至(19, 889)",
-        "is_operated": false,
-        "interval": 0.08
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 19,
-            "y": 917,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(19, 917)按下 ",
-        "is_operated": false,
-        "interval": 0.33
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 19,
-            "y": 917,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(19, 917)释放 ",
-        "is_operated": false,
-        "interval": 0.07
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 18,
-            "y": 919
-        },
-        "description": "鼠标移至(18, 919)",
-        "is_operated": false,
-        "interval": 0.06
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 17,
-            "y": 949
-        },
-        "description": "鼠标移至(17, 949)",
-        "is_operated": false,
-        "interval": 0.14
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 19,
-            "y": 963,
-            "button": "Button.left",
-            "is_down": true
-        },
-        "description": "Button.left在(19, 963)按下 ",
-        "is_operated": false,
-        "interval": 0.18
-    },
-    {
-        "module": "mouse",
-        "operation": "click",
-        "data": {
-            "x": 19,
-            "y": 964,
-            "button": "Button.left",
-            "is_down": false
-        },
-        "description": "Button.left在(19, 964)释放 ",
-        "is_operated": false,
-        "interval": 0.09
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 19,
-            "y": 979
-        },
-        "description": "鼠标移至(19, 979)",
-        "is_operated": false,
-        "interval": 0.12
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 23,
-            "y": 1009
-        },
-        "description": "鼠标移至(23, 1009)",
-        "is_operated": false,
-        "interval": 0.11
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 27,
-            "y": 1039
-        },
-        "description": "鼠标移至(27, 1039)",
-        "is_operated": false,
-        "interval": 0.12
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 53,
-            "y": 1024
-        },
-        "description": "鼠标移至(53, 1024)",
-        "is_operated": false,
-        "interval": 0.71
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 83,
-            "y": 1021
-        },
-        "description": "鼠标移至(83, 1021)",
-        "is_operated": false,
-        "interval": 0.05
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 114,
-            "y": 1020
-        },
-        "description": "鼠标移至(114, 1020)",
-        "is_operated": false,
-        "interval": 0.03
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 145,
-            "y": 1020
-        },
-        "description": "鼠标移至(145, 1020)",
-        "is_operated": false,
-        "interval": 0.04
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 176,
-            "y": 1021
-        },
-        "description": "鼠标移至(176, 1021)",
-        "is_operated": false,
-        "interval": 0.05
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 147,
-            "y": 1029
-        },
-        "description": "鼠标移至(147, 1029)",
-        "is_operated": false,
-        "interval": 0.25
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 115,
-            "y": 1032
-        },
-        "description": "鼠标移至(115, 1032)",
-        "is_operated": false,
-        "interval": 0.01
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 83,
-            "y": 1036
-        },
-        "description": "鼠标移至(83, 1036)",
-        "is_operated": false,
-        "interval": 0.01
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 52,
-            "y": 1043
-        },
-        "description": "鼠标移至(52, 1043)",
-        "is_operated": false,
-        "interval": 0.01
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": 20,
-            "y": 1049
-        },
-        "description": "鼠标移至(20, 1049)",
-        "is_operated": false,
-        "interval": 0.01
-    },
-    {
-        "module": "mouse",
-        "operation": "moveTo",
-        "data": {
-            "x": -4,
-            "y": 1068
-        },
-        "description": "鼠标移至(-4, 1068)",
-        "is_operated": false,
-        "interval": 0.04
+        "interval": 1.293
     }
 ]
